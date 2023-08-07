@@ -18,6 +18,7 @@
 
 * DIRECTORY:
   dataset: #{DATA_DIR}/test/images
+
   sample_submission_path : #{DATA_DIR}/test/sample_submission.csv
   
   * #{DATA_DIR} → /content/baseline
