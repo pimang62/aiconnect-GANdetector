@@ -7,7 +7,7 @@
 * DIRECTORY: 
   dataset: #{DATA_DIR}/train
   
-  * {DATA_DIR} → /content/baseline
+  * #{DATA_DIR} → /content/baseline
 
 * learning_rate : 4.0e-4
 * n_epochs : 2
@@ -20,10 +20,10 @@
   dataset: #{DATA_DIR}/test/images
   sample_submission_path : #{DATA_DIR}/test/sample_submission.csv
   
-  * {DATA_DIR} → /content/baseline
+  * #{DATA_DIR} → /content/baseline
 
 * TRAIN:
   train_serial: #'YYYYMMDD_HHMMSS'
   
   * After training, you might get it from 'result' directory
-  * 'YYYYMMDD_HHMMSS' → (ex) '20230705_150000'
+  * #'YYYYMMDD_HHMMSS' → (ex) '20230705_150000'
