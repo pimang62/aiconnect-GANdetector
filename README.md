@@ -1,6 +1,6 @@
 # Fake or Real : AI 생성 이미지 판별 경진대회
 
-## Code setting
+## Code setting (Final)
 
 ### 1. train_config.yaml
 
