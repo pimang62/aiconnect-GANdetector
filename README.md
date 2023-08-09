@@ -1,9 +1,10 @@
 # Fake or Real : AI 생성 이미지 판별 경진대회
 
-## 대회 결과
+## 결과
 * **★ PUBLIC PRIVATE Final 40/706 상위 7% ★**
+* EfficientNet_b0 모델 from pretrained train data
 
-## 대회 개요
+## 개요
 [배경]
 * 영상 위변조 방지를 위한 가짜 이미지 판별 솔루션
 * 이미지 영역 | 평가 : F1 score
