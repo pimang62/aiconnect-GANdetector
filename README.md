@@ -1,5 +1,8 @@
 # Fake or Real : AI 생성 이미지 판별 경진대회
 
+## 결과
+* ★ Final 40/706 상위 7% ★
+
 ## Code setting (Final)
 
 ### 1. train_config.yaml
