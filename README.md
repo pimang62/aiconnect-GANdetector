@@ -1,7 +1,7 @@
 # Fake or Real : AI 생성 이미지 판별 경진대회
 
 ## 대회 결과
-* ★ PUBLIC PRIVATE Final 40/706 상위 7% ★
+* **★ PUBLIC PRIVATE Final 40/706 상위 7% ★**
 
 ## 대회 개요
 [배경]
